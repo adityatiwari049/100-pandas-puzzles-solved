@@ -3,7 +3,7 @@
 This repository contains my solutions to the [100 Pandas Puzzles](https://github.com/ajcr/100-pandas-puzzles) challenge by [@ajcr](https://github.com/ajcr).
 
 ## 🚀 What's Inside
-- ✅ All 100 puzzles solved
+- ✅ All 60 puzzles solved
 - 🧠 Added explanations and notes for better understanding
 - 🐼 Focused on improving pandas skills: indexing, grouping, merging, datetime, etc.
 
